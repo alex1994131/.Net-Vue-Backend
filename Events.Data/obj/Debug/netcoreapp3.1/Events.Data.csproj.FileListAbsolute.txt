@@ -1,0 +1,24 @@
+C:\Users\user\Documents\21\New folder\Events.Data\bin\Debug\netcoreapp3.1\Events.Data.deps.json
+C:\Users\user\Documents\21\New folder\Events.Data\bin\Debug\netcoreapp3.1\Events.Data.dll
+C:\Users\user\Documents\21\New folder\Events.Data\bin\Debug\netcoreapp3.1\Events.Data.pdb
+C:\Users\user\Documents\21\New folder\Events.Data\bin\Debug\netcoreapp3.1\Events.Core.dll
+C:\Users\user\Documents\21\New folder\Events.Data\bin\Debug\netcoreapp3.1\Events.Core.pdb
+C:\Users\user\Documents\21\New folder\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.csprojAssemblyReference.cache
+C:\Users\user\Documents\21\New folder\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.AssemblyInfoInputs.cache
+C:\Users\user\Documents\21\New folder\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.AssemblyInfo.cs
+C:\Users\user\Documents\21\New folder\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\21\New folder\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.csproj.CopyComplete
+C:\Users\user\Documents\21\New folder\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.dll
+C:\Users\user\Documents\21\New folder\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.pdb
+E:\works\projects\Net-Vue\backend\Events.Data\bin\Debug\netcoreapp3.1\Events.Data.deps.json
+E:\works\projects\Net-Vue\backend\Events.Data\bin\Debug\netcoreapp3.1\Events.Data.dll
+E:\works\projects\Net-Vue\backend\Events.Data\bin\Debug\netcoreapp3.1\Events.Data.pdb
+E:\works\projects\Net-Vue\backend\Events.Data\bin\Debug\netcoreapp3.1\Events.Core.dll
+E:\works\projects\Net-Vue\backend\Events.Data\bin\Debug\netcoreapp3.1\Events.Core.pdb
+E:\works\projects\Net-Vue\backend\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.csprojAssemblyReference.cache
+E:\works\projects\Net-Vue\backend\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.AssemblyInfoInputs.cache
+E:\works\projects\Net-Vue\backend\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.AssemblyInfo.cs
+E:\works\projects\Net-Vue\backend\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.csproj.CoreCompileInputs.cache
+E:\works\projects\Net-Vue\backend\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.csproj.CopyComplete
+E:\works\projects\Net-Vue\backend\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.dll
+E:\works\projects\Net-Vue\backend\Events.Data\obj\Debug\netcoreapp3.1\Events.Data.pdb

@@ -1,0 +1,18 @@
+C:\Users\user\Documents\21\New folder\Events.Core\bin\Debug\netcoreapp3.1\Events.Core.deps.json
+C:\Users\user\Documents\21\New folder\Events.Core\bin\Debug\netcoreapp3.1\Events.Core.dll
+C:\Users\user\Documents\21\New folder\Events.Core\bin\Debug\netcoreapp3.1\Events.Core.pdb
+C:\Users\user\Documents\21\New folder\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.csprojAssemblyReference.cache
+C:\Users\user\Documents\21\New folder\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\21\New folder\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.AssemblyInfo.cs
+C:\Users\user\Documents\21\New folder\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\21\New folder\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.dll
+C:\Users\user\Documents\21\New folder\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.pdb
+E:\works\projects\Net-Vue\backend\Events.Core\bin\Debug\netcoreapp3.1\Events.Core.deps.json
+E:\works\projects\Net-Vue\backend\Events.Core\bin\Debug\netcoreapp3.1\Events.Core.dll
+E:\works\projects\Net-Vue\backend\Events.Core\bin\Debug\netcoreapp3.1\Events.Core.pdb
+E:\works\projects\Net-Vue\backend\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.csprojAssemblyReference.cache
+E:\works\projects\Net-Vue\backend\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.AssemblyInfoInputs.cache
+E:\works\projects\Net-Vue\backend\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.AssemblyInfo.cs
+E:\works\projects\Net-Vue\backend\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.csproj.CoreCompileInputs.cache
+E:\works\projects\Net-Vue\backend\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.dll
+E:\works\projects\Net-Vue\backend\Events.Core\obj\Debug\netcoreapp3.1\Events.Core.pdb
